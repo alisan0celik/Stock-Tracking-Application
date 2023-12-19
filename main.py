@@ -27,7 +27,7 @@ conn = http.client.HTTPSConnection("api.collectapi.com")
 
 headers = {
     'content-type': "application/json",
-    'authorization': "apikey 2SJZNSOth9GYznj2wPB2Yp:31V2L183PuARI9EW2g4cuS"
+    'authorization': "your apikey"
 }
 
 conn.request("GET", "/economy/hisseSenedi", headers=headers)
@@ -190,7 +190,7 @@ def hisse_senedi_takip():
         conn = http.client.HTTPSConnection("api.collectapi.com")
         headers = {
             'content-type': "application/json",
-            'authorization': "apikey 2SJZNSOth9GYznj2wPB2Yp:31V2L183PuARI9EW2g4cuS"
+            'authorization': "your apikey"
         }
 
         conn.request("GET", "/economy/liveBorsa", headers=headers)
