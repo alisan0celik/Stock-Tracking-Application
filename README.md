@@ -29,5 +29,7 @@ Datetime Library
 
 ![screenshot1](https://github.com/alisan0celik/Stock-Tracking-Application/blob/main/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-12-19%20164437.png)
 
-![screenshot2](
-![screenshot3](
+![screenshot2](https://github.com/alisan0celik/Stock-Tracking-Application/blob/main/Screenshots/3.png)
+
+![screenshot3](https://github.com/alisan0celik/Stock-Tracking-Application/blob/main/Screenshots/2.png)
+
