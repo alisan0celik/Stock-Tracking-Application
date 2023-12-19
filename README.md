@@ -33,3 +33,6 @@ Datetime Library
 
 ![screenshot3](https://github.com/alisan0celik/Stock-Tracking-Application/blob/main/Screenshots/2.png)
 
+## Author
+
+The application was created by Alişan Çelik.
